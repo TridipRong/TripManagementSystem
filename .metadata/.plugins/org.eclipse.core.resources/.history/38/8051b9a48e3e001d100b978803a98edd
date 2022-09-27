@@ -1,0 +1,10 @@
+package com.project.exceptions;
+
+public class TravelsException extends Exception{
+	public TravelsException() {
+		// TODO Auto-generated constructor stub
+	}
+	public TravelsException(String message) {
+		super(message);
+	}
+}
