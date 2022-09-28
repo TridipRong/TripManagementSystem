@@ -13,6 +13,6 @@ This is a group project of online trip management system
 <img src="./Images/Screenshot (291).png" style="max-width: 100%; display: inline-block" data-target="animated-image.originalImage">
 
 ---
-<img src="./Images/Screenshot (291).png" style="max-width: 100%; display: inline-block" data-target="animated-image.originalImage">
+<img src="./Images/Screenshot (293).png" style="max-width: 100%; display: inline-block" data-target="animated-image.originalImage">
 
 
